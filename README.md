@@ -7,7 +7,7 @@
 
 </aside>
 
-###🙂 CommitType 🙂
+### 🙂 CommitType 🙂
 
 | CommitType | 설명 |
 | --- | --- |
